@@ -11,7 +11,7 @@ Problem statement:-
 
  a) Split the dataset into training and test dataset 80:20
 
- b) Create a decision tree model for classification and prediction in python class format. Fit the model using training dataset. Show the model and provide proper interpretation on each node split.
+ b) Create a decision tree model for prediction in python class format. Fit the model using training dataset. Show the model and provide proper interpretation on each node split.
 
  c) Predict the house prices using the test dataset, and provide the performance metrics. 
 
@@ -19,7 +19,7 @@ Problem statement:-
 
 
 
-2.  Classify homework 4 dataset with the decision tree model
+2.  Classify Abalone dataset with the decision tree model
 
  a) Fit the decision tree model with RINGS as a response variable. How is the model performance? How do you interpret the model?
 
